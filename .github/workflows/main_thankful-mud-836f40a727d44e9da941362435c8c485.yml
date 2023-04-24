@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'thankful-mud-836f40a727d44e9da941362435c8c485'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54E70D83905449C8891A351A23DCFCC3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5C655C04FE81456CBD84C854305732B9 }}
